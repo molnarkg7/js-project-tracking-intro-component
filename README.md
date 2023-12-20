@@ -2,7 +2,7 @@
 
 ## Live Site URL:
 
--
+- https://molnarkg7.github.io/js-project-tracking-intro-component/
 
 ## Build With
 
